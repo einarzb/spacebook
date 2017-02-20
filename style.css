@@ -1,0 +1,44 @@
+
+.form-comment {
+  display: none;
+}
+
+.post {
+border:2px solid #eaeaea;
+border-radius:5px;
+padding: 5px;
+margin:2px;
+
+}
+
+.btn-danger {
+  width:80px;
+  height:25px;
+  padding:2px;
+  margin:10px;
+  text-align: center;
+  float: right;
+}
+
+.btn-primary-comment {
+  width:80px;
+  height:25px;
+  padding:2px;
+  margin:10px;
+  text-align: center;
+  float: right;
+  background-color: #337ab7;
+  border-color:#2e6da4;
+  color: #fff;
+}
+.btn-primary-comment:hover {
+  width:80px;
+  height:25px;
+  padding:2px;
+  margin:10px;
+  text-align: center;
+  float: right;
+  background-color: #337ab7;
+  border-color:#2e6da4;
+  color: #fff;
+}
